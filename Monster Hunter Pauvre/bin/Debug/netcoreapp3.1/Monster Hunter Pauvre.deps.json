@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Monster Hunter Pauvre/1.0.0": {
+        "runtime": {
+          "Monster Hunter Pauvre.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Monster Hunter Pauvre/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

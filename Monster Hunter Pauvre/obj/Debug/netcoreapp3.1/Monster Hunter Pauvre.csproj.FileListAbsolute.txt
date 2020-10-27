@@ -1,0 +1,13 @@
+S:\Projets Visual studio\Monster Hunter Pauvre\Monster Hunter Pauvre\bin\Debug\netcoreapp3.1\Monster Hunter Pauvre.exe
+S:\Projets Visual studio\Monster Hunter Pauvre\Monster Hunter Pauvre\bin\Debug\netcoreapp3.1\Monster Hunter Pauvre.deps.json
+S:\Projets Visual studio\Monster Hunter Pauvre\Monster Hunter Pauvre\bin\Debug\netcoreapp3.1\Monster Hunter Pauvre.runtimeconfig.json
+S:\Projets Visual studio\Monster Hunter Pauvre\Monster Hunter Pauvre\bin\Debug\netcoreapp3.1\Monster Hunter Pauvre.runtimeconfig.dev.json
+S:\Projets Visual studio\Monster Hunter Pauvre\Monster Hunter Pauvre\bin\Debug\netcoreapp3.1\Monster Hunter Pauvre.dll
+S:\Projets Visual studio\Monster Hunter Pauvre\Monster Hunter Pauvre\bin\Debug\netcoreapp3.1\Monster Hunter Pauvre.pdb
+S:\Projets Visual studio\Monster Hunter Pauvre\Monster Hunter Pauvre\obj\Debug\netcoreapp3.1\Monster Hunter Pauvre.csprojAssemblyReference.cache
+S:\Projets Visual studio\Monster Hunter Pauvre\Monster Hunter Pauvre\obj\Debug\netcoreapp3.1\Monster Hunter Pauvre.AssemblyInfoInputs.cache
+S:\Projets Visual studio\Monster Hunter Pauvre\Monster Hunter Pauvre\obj\Debug\netcoreapp3.1\Monster Hunter Pauvre.AssemblyInfo.cs
+S:\Projets Visual studio\Monster Hunter Pauvre\Monster Hunter Pauvre\obj\Debug\netcoreapp3.1\Monster Hunter Pauvre.csproj.CoreCompileInputs.cache
+S:\Projets Visual studio\Monster Hunter Pauvre\Monster Hunter Pauvre\obj\Debug\netcoreapp3.1\Monster Hunter Pauvre.dll
+S:\Projets Visual studio\Monster Hunter Pauvre\Monster Hunter Pauvre\obj\Debug\netcoreapp3.1\Monster Hunter Pauvre.pdb
+S:\Projets Visual studio\Monster Hunter Pauvre\Monster Hunter Pauvre\obj\Debug\netcoreapp3.1\Monster Hunter Pauvre.genruntimeconfig.cache
